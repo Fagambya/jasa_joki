@@ -1,0 +1,67 @@
+1. Konsep Utama & Target Audiens
+
+Nama Brand (Saran): KodeBantu, CS-Solver, LogicBoost, AlgoExpert.
+Slogan: "Tugas Coding & Proyek CS Beres, Nilai Aman." atau "Solusi Cepat dan Terpercaya untuk Setiap Tugas Ilmu Komputer Anda."
+Target Audiens: Mahasiswa jurusan Ilmu Komputer, Teknik Informatika, atau bidang terkait yang kesulitan dengan tugas coding, proyek, atau memahami konsep tertentu.
+Tujuan Utama Website: Meyakinkan pengunjung bahwa layanan Anda profesional, amanah, dan mampu memberikan solusi berkualitas tinggi untuk tugas-tugas mereka.
+2. Desain Visual & Nuansa
+
+Gaya: Minimalis & Modern. Gunakan banyak ruang kosong (whitespace) agar tidak terlihat berantakan.
+Palet Warna:
+Dasar: Putih bersih (#FFFFFF) atau abu-abu sangat terang (#F9F9F9) untuk latar belakang.
+Aksen Warna-warni (Colorful): Pilih 2-3 warna cerah yang identik dengan dunia teknologi. Contoh kombinasi:
+Kombinasi 1 (Tech & Trust): Biru Elektrik (#007BFF), Hijau Mint (#20C997), dan Kuning Cerah (#FFC107).
+Kombinasi 2 (Modern & Bold): Ungu (#6F42C1), Oranye (#FD7E14), dan Biru Langit (#0DCAF0).
+Teks: Gunakan warna hitam pekat atau abu-abu tua (#343A40) untuk keterbacaan maksimal.
+Tipografi:
+Judul (Headings): Gunakan font sans-serif yang modern dan bersih seperti Poppins, Montserrat, atau Inter.
+Isi Teks (Body): Gunakan font yang sangat mudah dibaca seperti Lato, Roboto, atau Open Sans.
+Ikon & Ilustrasi: Gunakan ikon-ikon sederhana (seperti dari FontAwesome atau Bootstrap Icons) dan ilustrasi flat design yang relevan dengan coding (misalnya, gambar laptop, potongan kode, diagram alur).
+3. Struktur & Konten Halaman Utama (Homepage)
+
+Ini adalah bagian terpenting. Susun dengan alur berikut untuk meyakinkan pengunjung:
+
+Bagian 1: Hero Section (Pahlawan)
+
+Judul Utama Besar & Tebal: "Butuh Bantuan Tugas Coding? Kami Punya Solusinya."
+Sub-judul: "Layanan profesional untuk semua tugas Ilmu Komputer—mulai dari Algoritma, Pengembangan Web, hingga Machine Learning."
+Tombol Ajakan Bertindak (Call-to-Action/CTA): Tombol utama dengan warna aksen yang mencolok, bertuliskan "Konsultasi Gratis Sekarang" atau "Lihat Layanan Kami".
+Visual: Ilustrasi minimalis seseorang yang sedang coding dengan santai atau diagram abstrak yang melambangkan solusi.
+Bagian 2: Keunggulan Layanan (Why Choose Us?)
+
+Judul: "Mengapa Memilih Kami?"
+Isi: Tampilkan 3-4 keunggulan utama dalam format ikon + teks singkat.
+Ikon Jam: "Tepat Waktu" - Pengiriman selalu sesuai deadline yang disepakati.
+Ikon Kunci: "Privasi Terjamin" - Identitas dan semua data Anda 100% aman.
+Ikon Kode (</>): "Kode Berkualitas" - Kode bersih, terstruktur, dan disertai penjelasan jika diperlukan.
+Ikon Bintang: "Hasil Memuaskan" - Garansi revisi hingga Anda puas dengan hasilnya.
+Bagian 3: Testimoni Pelanggan (Social Proof)
+
+Judul: "Apa Kata Mereka yang Sudah Kami Bantu?"
+Isi: Ini adalah kunci untuk meyakinkan pelanggan.
+Tampilkan 3 testimoni terbaik dalam format kartu (card).
+Wajib ada: Foto profil (bisa inisial atau avatar jika ingin anonim), Nama (cukup nama depan, misal: "Rian F."), dan Jurusan/Universitas (opsional, misal: "Mahasiswa Informatika").
+Kutipan Testimoni: Pilih kutipan yang menyoroti masalah spesifik dan bagaimana Anda menyelesaikannya. Contoh: "Awalnya pusing dengan tugas Machine Learning, tapi tim KodeBantu benar-benar life-saver! Kodenya rapi dan penjelasannya mudah dimengerti. Nilai A di tangan!"
+Beri rating bintang (contoh: ★★★★★) di setiap testimoni.
+Bagian 4: Layanan yang Ditawarkan (Our Services)
+
+Judul: "Kami Siap Membantu Anda Dalam Hal:"
+Isi: Gunakan format kartu atau daftar sederhana untuk layanan spesifik.
+Pembuatan Website (HTML, CSS, JS, PHP)
+Tugas Algoritma & Struktur Data (C++, Java, Python)
+Pengembangan Aplikasi Mobile (Dasar)
+Proyek Database (SQL)
+Analisis Data & Machine Learning (Dasar)
+Bagian 5: Proses Kerja (How It Works)
+
+Judul: "Prosesnya Sangat Mudah"
+Isi: Tampilkan 3-4 langkah sederhana dalam bentuk infografis bernomor.
+1. Hubungi Kami: Jelaskan masalah dan deadline Anda melalui WhatsApp atau form.
+2. Penawaran Harga: Kami akan menganalisis tugas dan memberikan penawaran harga terbaik.
+3. Proses Pengerjaan: Tim kami akan mengerjakan tugas Anda dengan profesional.
+4. Selesai & Revisi: Tugas dikirimkan tepat waktu. Butuh revisi? Kami siap membantu.
+Bagian 6: Ajakan Bertindak Terakhir (Final CTA)
+
+Judul: "Siap Meringankan Beban Tugas Anda?"
+Sub-judul: "Jangan biarkan tugas coding menghambat Anda. Diskusikan kebutuhan Anda dengan kami tanpa biaya."
+Tombol CTA: Tombol besar yang sama seperti di awal: "Hubungi Kami di WhatsApp".
